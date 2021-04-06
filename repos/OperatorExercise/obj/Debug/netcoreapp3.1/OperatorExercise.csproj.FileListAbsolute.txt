@@ -10,3 +10,4 @@ C:\Users\antho\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.c
 C:\Users\antho\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.dll
 C:\Users\antho\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.pdb
 C:\Users\antho\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.genruntimeconfig.cache
+C:\Users\antho\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csprojAssemblyReference.cache
