@@ -1,0 +1,4 @@
+C:\Users\antho\repos\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.csprojAssemblyReference.cache
+C:\Users\antho\repos\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\antho\repos\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.AssemblyInfo.cs
+C:\Users\antho\repos\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.csproj.CoreCompileInputs.cache
