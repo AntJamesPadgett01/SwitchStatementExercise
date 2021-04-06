@@ -1,0 +1,12 @@
+C:\Users\antho\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.exe
+C:\Users\antho\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.deps.json
+C:\Users\antho\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.json
+C:\Users\antho\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.dev.json
+C:\Users\antho\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.dll
+C:\Users\antho\repos\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.pdb
+C:\Users\antho\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\antho\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfo.cs
+C:\Users\antho\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.dll
+C:\Users\antho\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.pdb
+C:\Users\antho\repos\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.genruntimeconfig.cache
