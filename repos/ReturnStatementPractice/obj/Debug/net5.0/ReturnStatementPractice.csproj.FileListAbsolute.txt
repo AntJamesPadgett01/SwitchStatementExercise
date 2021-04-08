@@ -1,0 +1,15 @@
+C:\Users\antho\repos\ReturnStatementPractice\obj\Debug\net5.0\ReturnStatementPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\ReturnStatementPractice\obj\Debug\net5.0\ReturnStatementPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\ReturnStatementPractice\obj\Debug\net5.0\ReturnStatementPractice.AssemblyInfo.cs
+C:\Users\antho\repos\ReturnStatementPractice\obj\Debug\net5.0\ReturnStatementPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\ReturnStatementPractice\bin\Debug\net5.0\ReturnStatementPractice.exe
+C:\Users\antho\repos\ReturnStatementPractice\bin\Debug\net5.0\ReturnStatementPractice.deps.json
+C:\Users\antho\repos\ReturnStatementPractice\bin\Debug\net5.0\ReturnStatementPractice.runtimeconfig.json
+C:\Users\antho\repos\ReturnStatementPractice\bin\Debug\net5.0\ReturnStatementPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\ReturnStatementPractice\bin\Debug\net5.0\ReturnStatementPractice.dll
+C:\Users\antho\repos\ReturnStatementPractice\bin\Debug\net5.0\ref\ReturnStatementPractice.dll
+C:\Users\antho\repos\ReturnStatementPractice\bin\Debug\net5.0\ReturnStatementPractice.pdb
+C:\Users\antho\repos\ReturnStatementPractice\obj\Debug\net5.0\ReturnStatementPractice.dll
+C:\Users\antho\repos\ReturnStatementPractice\obj\Debug\net5.0\ref\ReturnStatementPractice.dll
+C:\Users\antho\repos\ReturnStatementPractice\obj\Debug\net5.0\ReturnStatementPractice.pdb
+C:\Users\antho\repos\ReturnStatementPractice\obj\Debug\net5.0\ReturnStatementPractice.genruntimeconfig.cache
