@@ -1,0 +1,13 @@
+C:\Users\antho\repos\UserInputPractice\bin\Debug\netcoreapp3.1\UserInputPractice.exe
+C:\Users\antho\repos\UserInputPractice\bin\Debug\netcoreapp3.1\UserInputPractice.deps.json
+C:\Users\antho\repos\UserInputPractice\bin\Debug\netcoreapp3.1\UserInputPractice.runtimeconfig.json
+C:\Users\antho\repos\UserInputPractice\bin\Debug\netcoreapp3.1\UserInputPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\UserInputPractice\bin\Debug\netcoreapp3.1\UserInputPractice.dll
+C:\Users\antho\repos\UserInputPractice\bin\Debug\netcoreapp3.1\UserInputPractice.pdb
+C:\Users\antho\repos\UserInputPractice\obj\Debug\netcoreapp3.1\UserInputPractice.csprojAssemblyReference.cache
+C:\Users\antho\repos\UserInputPractice\obj\Debug\netcoreapp3.1\UserInputPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\UserInputPractice\obj\Debug\netcoreapp3.1\UserInputPractice.AssemblyInfo.cs
+C:\Users\antho\repos\UserInputPractice\obj\Debug\netcoreapp3.1\UserInputPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\UserInputPractice\obj\Debug\netcoreapp3.1\UserInputPractice.dll
+C:\Users\antho\repos\UserInputPractice\obj\Debug\netcoreapp3.1\UserInputPractice.pdb
+C:\Users\antho\repos\UserInputPractice\obj\Debug\netcoreapp3.1\UserInputPractice.genruntimeconfig.cache
