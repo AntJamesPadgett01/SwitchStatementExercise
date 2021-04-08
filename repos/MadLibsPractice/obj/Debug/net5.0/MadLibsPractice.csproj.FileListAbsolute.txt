@@ -1,0 +1,15 @@
+C:\Users\antho\repos\MadLibsPractice\bin\Debug\net5.0\MadLibsPractice.exe
+C:\Users\antho\repos\MadLibsPractice\bin\Debug\net5.0\MadLibsPractice.deps.json
+C:\Users\antho\repos\MadLibsPractice\bin\Debug\net5.0\MadLibsPractice.runtimeconfig.json
+C:\Users\antho\repos\MadLibsPractice\bin\Debug\net5.0\MadLibsPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\MadLibsPractice\bin\Debug\net5.0\MadLibsPractice.dll
+C:\Users\antho\repos\MadLibsPractice\bin\Debug\net5.0\ref\MadLibsPractice.dll
+C:\Users\antho\repos\MadLibsPractice\bin\Debug\net5.0\MadLibsPractice.pdb
+C:\Users\antho\repos\MadLibsPractice\obj\Debug\net5.0\MadLibsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\MadLibsPractice\obj\Debug\net5.0\MadLibsPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\MadLibsPractice\obj\Debug\net5.0\MadLibsPractice.AssemblyInfo.cs
+C:\Users\antho\repos\MadLibsPractice\obj\Debug\net5.0\MadLibsPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\MadLibsPractice\obj\Debug\net5.0\MadLibsPractice.dll
+C:\Users\antho\repos\MadLibsPractice\obj\Debug\net5.0\ref\MadLibsPractice.dll
+C:\Users\antho\repos\MadLibsPractice\obj\Debug\net5.0\MadLibsPractice.pdb
+C:\Users\antho\repos\MadLibsPractice\obj\Debug\net5.0\MadLibsPractice.genruntimeconfig.cache
